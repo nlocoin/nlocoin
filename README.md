@@ -1,3 +1,3 @@
-FooCoin (FOO)
+NLOCoin (NLO)
 
 Blah, blah, blah.
